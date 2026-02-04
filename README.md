@@ -1,2 +1,2 @@
-# all-to-dict
-comfyui nodes to convert/set parameters,loras,models and companion files to manage your pipeline. fully dictionary based.
+# All to Dict
+Comfyui nodes to convert/set parameters,loras,models and companion files to manage your pipeline. Fully dictionary based.
